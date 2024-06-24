@@ -40,5 +40,5 @@ Para utilizar este proyecto:
 
 El proyecto está desplegado en GitHub Pages y puede ser visualizado en el siguiente enlace:
 
-[Visualizar Proyecto](https://eriksalva.github.io/trabajo-practico-opcional-js/)
+[Visualizar Proyecto](https://eriksalva.github.io/trabajo-practico-opcional-biblioteca-js/)
 
